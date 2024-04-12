@@ -1,0 +1,35 @@
+{
+  "name": "lungworms",
+  "version": "1.0.0",
+  "description": "npm install zgw-tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwei274/lungworms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "configparser": "^0.3.10",
+    "cutnodblue": "^2.1.3",
+    "dotenv": "^16.4.5",
+    "dotenv-expand": "^11.0.6",
+    "flavorsomeoo": "^1.0.1",
+    "fqliengla": "^1.0.3",
+    "husky": "^9.0.11",
+    "i": "^0.3.7",
+    "iconv-lite": "^0.6.3",
+    "inquirer": "^9.2.17",
+    "jinxiaalong": "^1.1.0",
+    "karma-coverage-istanbul-reporter": "^3.0.3",
+    "keyring": "^1.1.0",
+    "npm": "^10.5.2",
+    "oatqogbnq": "^1.0.3",
+    "renewalsiw": "^1.0.0",
+    "shell-oooooyoung": "^1.1.11",
+    "wxmcawwn": "^2.1.1"
+  }
+}
